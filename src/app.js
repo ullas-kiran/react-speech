@@ -1,8 +1,8 @@
-import React from 'react'
-
+import Notes from './views/notes'
+import './index.css'
 const App = () => {
   return (
-    <div>App</div>
+    <Notes/>
   )
 }
 
