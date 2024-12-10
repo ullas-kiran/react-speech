@@ -17,7 +17,7 @@ Start by cloning the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/text-to-speech-app.git
+git clone https://github.com/ullas-kiran/text-to-speech-app.git
 cd text-to-speech-app
 2. Install Dependencies
 Once you've cloned the repository, run the following command to install all the required dependencies:
